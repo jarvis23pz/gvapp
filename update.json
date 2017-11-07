@@ -1,6 +1,6 @@
 {"update" : { 
     "codeVersion" : 2, 
-    "appVersion" : 0.0.2,
+    "appVersion" : "0.0.2",
     "url": "https://raw.githubusercontent.com/jarvis23pz/gvapp/master/android-debug-2.apk"
           } 
 }
